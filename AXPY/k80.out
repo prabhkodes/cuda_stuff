@@ -1,0 +1,5 @@
+N = 1000000000
+ CPU: nthr =   16   t0 = 0.5000 sec   P =   4.000 Gflop/s   B =  24.002 GB/s
+ GPU: nthr =   16   t0 = 0.0738 sec   P =  27.107 Gflop/s   B = 162.641 GB/s
+ Diff = 0.000000e+00
+
