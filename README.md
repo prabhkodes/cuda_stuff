@@ -1,5 +1,10 @@
 # CUDA Projects
 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![OpenMP](https://img.shields.io/badge/OpenMP-006DB8?style=flat-square&logoColor=white)
+![MPI](https://img.shields.io/badge/MPI-364d6e?style=flat-square&logoColor=white)
+
 A collection of CUDA kernels and GPU-accelerated programs covering core parallel computing patterns — memory access, reductions, linear algebra, and performance benchmarking across GPU architectures.
 
 ## Projects
